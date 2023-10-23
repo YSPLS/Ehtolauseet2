@@ -26,7 +26,7 @@ public class App2 {
 				System.out.println("Arvo1 ja Arvo3 ovat yhtäsuuria.");
 			}
 		
-			
+			//:)
 		}
 	}
 
